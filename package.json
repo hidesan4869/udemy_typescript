@@ -1,5 +1,9 @@
 {
+
+  "name": "hideya",
+
   "name": "typescript",
+  
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -16,5 +20,15 @@
   "bugs": {
     "url": "https://github.com/hidesan4869/typescript/issues"
   },
+
+  "homepage": "https://github.com/hidesan4869/typescript#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  },
+  "dependencies": {
+    "@types/jscodeshift": "^0.11.0"
+  }
+=======
   "homepage": "https://github.com/hidesan4869/typescript#readme"
+
 }
