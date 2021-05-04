@@ -1,0 +1,26 @@
+{
+  "name": "hideya",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hidesan4869/typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hidesan4869/typescript/issues"
+  },
+  "homepage": "https://github.com/hidesan4869/typescript#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  },
+  "dependencies": {
+    "@types/jscodeshift": "^0.11.0"
+  }
+}
